@@ -1,0 +1,3 @@
+import{S as l,i,s as c,e as h,t as u,c as d,a as p,h as m,d as o,b as _,g as f,J as y,n}from"../chunks/index-34d48dc0.js";function g(r){let t,a;return{c(){t=h("h1"),a=u(`This page is currently under construction. Hopefully, I will drag my ass out of the bed to make
+	this page soon.`),this.h()},l(e){t=d(e,"H1",{class:!0});var s=p(t);a=m(s,`This page is currently under construction. Hopefully, I will drag my ass out of the bed to make
+	this page soon.`),s.forEach(o),this.h()},h(){_(t,"class","svelte-zt8irk")},m(e,s){f(e,t,s),y(t,a)},p:n,i:n,o:n,d(e){e&&o(t)}}}class x extends l{constructor(t){super(),i(this,t,null,g,c,{})}}export{x as default};
